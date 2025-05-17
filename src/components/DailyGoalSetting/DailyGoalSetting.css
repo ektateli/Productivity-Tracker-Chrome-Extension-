@@ -1,0 +1,55 @@
+.goal-card {
+    background: #1e1e1e;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
+  }
+  
+  .title {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 2px solid #4facfe;
+    border-radius: 5px;
+    background: #282828;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .btn {
+    background: #4facfe;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  .progress {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .toggle-btn {
+    background: #333;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .toggle-btn.active {
+    background: #ff3b30;
+  }
+  

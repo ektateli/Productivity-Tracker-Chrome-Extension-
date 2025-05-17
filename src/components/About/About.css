@@ -1,0 +1,13 @@
+
+.center{
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    justify-self: center;
+    margin: 10%;
+}
+
+.leftop {
+    align-self: start;  /* Aligns the element to the top of the grid cell */
+    justify-self: start; /* Aligns the element to the left within the cell */
+}
