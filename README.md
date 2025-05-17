@@ -32,6 +32,9 @@ Works seamlessly in the Chrome browser.
 
 Tech Stack
 Frontend: React + Vite + TypeScript
+
 Build Tool: Bun
+
 Storage: Chrome Storage API
+
 Permissions: Chrome Extensions API
