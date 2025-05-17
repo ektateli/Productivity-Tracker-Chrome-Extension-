@@ -17,14 +17,8 @@ METOR : NEELA SANTHOSH
 DESCRIPTION
 
 A Chrome extension built with React, Vite & TypeScript to help users track their productivity, monitor website usage, and set daily goals.
-To Load the Extension in Chrome
-Open Google Chrome and navigate to chrome://extensions/
-
-Enable Developer Mode (toggle in the top-right corner).
-
-Click Load Unpacked and select the dist folder inside the project.
-
-The extension will be added to Chrome!
+To Load the Extension in Chrome Open Google Chrome and navigate to chrome://extensions/ , Enable Developer Mode (toggle in the top-right corner). 
+Click Load Unpacked and select the dist folder inside the project. The extension will be added to Chrome!
 
 
 
